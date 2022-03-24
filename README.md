@@ -10,3 +10,10 @@ Menggunakan Single Linked List & Stuck
 // 1. FAYZA VIRDANA ADDIZA
 // 2. FATHIA NUQ QAMARINA
 // 3. INDAH WULAN LESTARI
+
+# PROGRAM CRUD Single Linked List
+Manajemen Gudang Obat
++ Searching
+
+# PROGRAM CRUD DOUBLE Linked List
++ Searching
